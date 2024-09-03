@@ -1,0 +1,4 @@
+{
+    "python.analysis.typeCheckingMode": "standard",
+    "python.analysis.autoImportCompletions": true // THANKS FOR HAVING SUCH AN AMAZING TYPESAFETY ECOSYSTEM PYTHON I WANT TO COMMIT UNALIVE
+}
